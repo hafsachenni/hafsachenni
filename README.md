@@ -19,7 +19,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hafsachenni&show_icons=true&locale=en&layout=compact" alt="hafsachenni" /></p>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hafsachenni&show_icons=true&theme=highcontrast)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hafsachenni&show_icons=true&theme=synthwave)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hafsachenni&" alt="hafsachenni" /></p>
 
