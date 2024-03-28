@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hafsa!</h1>
-<h3 align="center" style="color: purple;">A Software Engineer Student at ALX</h3>
+<h3 align="center" style="color: #9370DB;">A Software Engineer Student at ALX</h3>
+
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/79/48/0e/79480e87d9fcb11532f5fa7100f1644d.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hafsachenni&label=Profile%20views&color=0e75b6&style=flat" alt="hafsachenni" /> </p>
 
