@@ -4,11 +4,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hafsachenni&label=Profile%20views&color=0e75b6&style=flat" alt="hafsachenni" /> </p>
 
 -🔭 **I’m currently working on developing my coding skills through practice and personal projects**
-
 -🌱 **I’m currently learning about web development frameworks**
-
 -👯 **I’m looking to collaborate on open source projects related to web development**
-
 -✨ **Fun fact: I once had goldfish pets**
 
 <h3 align="left">Connect with me:</h3>
