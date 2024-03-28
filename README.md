@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **open source projects related to web development**
 
-- ✨ Fun facts **I once had goldfish pets**
+- ✨ Fun fact I once had goldfish pets
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
