@@ -3,10 +3,10 @@
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/79/48/0e/79480e87d9fcb11532f5fa7100f1644d.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hafsachenni&label=Profile%20views&color=0e75b6&style=flat" alt="hafsachenni" /> </p>
 
-- 🔭 **I’m currently working on developing my coding skills**
-- 👯 **I’m looking to collaborate on open source projects related to web development**
-- 🌱 **I’m presently learning about web development frameworks**
-- ✨ **Fun fact: I once had goldfish pets**
+- 🔭 I’m currently working on developing my coding skills
+- 👯 I’m looking to collaborate on open source projects related to web development
+- 🌱 I’m presently learning about web development frameworks
+- ✨ Fun fact: I once had goldfish pets
   
 <h3 align="left">Connect with me:</h3>
 <p align="left"> 
