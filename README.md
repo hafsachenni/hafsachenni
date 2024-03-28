@@ -7,10 +7,9 @@
 - 👯 I’m looking to collaborate on open source projects related to web development
 - 🌱 I’m presently learning about web development frameworks
 - ✨ Fun fact: I once had goldfish pets
-- 📝 I regularly write articles on [https://medium.com/@hafsachenni77/what-happens-when-you-type-google-com-in-your-browser-and-press-enter-bed13fbdf7d6](https://medium.com/@hafsachenni77/what-happens-when-you-type-google-com-in-your-browser-and-press-enter-bed13fbdf7d6)
   
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
 <a href="https://twitter.com/hafsachenni0000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hafsachenni0000" height="30" width="40" /></a>
 </p>
 
