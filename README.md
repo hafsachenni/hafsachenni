@@ -7,6 +7,7 @@
 - 👯 I’m looking to collaborate on open source projects related to web development
 - 🌱 I’m presently learning about web development frameworks
 - ✨ Fun fact: I once had goldfish pets
+- 📝 I regularly write articles on [https://medium.com/@hafsachenni77/what-happens-when-you-type-google-com-in-your-browser-and-press-enter-bed13fbdf7d6](https://medium.com/@hafsachenni77/what-happens-when-you-type-google-com-in-your-browser-and-press-enter-bed13fbdf7d6)
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
